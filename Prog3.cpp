@@ -1,7 +1,5 @@
 /*
-Class: CSCI 175
-Assingment: Prog3
-Student Name: KAZI ISLAM
+ Name: KAZI ISLAM
 ===============================================================================
 Program: Median String and Motif (Consensus) Finder
 -------------------------------------------------------------------------------
